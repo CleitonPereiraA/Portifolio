@@ -11,7 +11,7 @@ Este é o meu portfólio, onde compartilho alguns dos meus trabalhos e projetos 
 
 ## Contato
 
-- E-mail: (cleitontcpereira@gmail.com)
+- E-mail: cleitontcpereira@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/cleiton-pereira-249044240/](https://www.linkedin.com/in/cleiton-pereira-249044240/)
 - Website: [https://cleitonpereiraa.github.io/Portifolio/](https://cleitonpereiraa.github.io/Portifolio/)
 
